@@ -1,6 +1,6 @@
 # Hello!
 
-This is a project from CodeBerry School. It is a responsive wedding webpage made with HTML5 and CSS3.
+This is a project by me from CodeBerry School. It is a responsive wedding webpage made with HTML5 and CSS3.
 
 https://delmi302.github.io/wedding/
 
